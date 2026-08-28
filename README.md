@@ -23,6 +23,6 @@ What do I mean? Well, after help in the circuit, it was the turn of *codeblocks*
 Basically, for the ultrasonic sensor, there was a codeblock that handled the distanec calculations, converting the value to centimetres while handling the triggering of the sensor and its reading of the echo for me.
 So, after adding this block to my code, I switched to text mode (because let's face it, blocks are cute and...yeah, that's about it - hey, I may know Arduino coding, but even I haven't been near a distance sensor in over 2 years. Please, cut me some slack). then kept the equivalent C++ code in my script (the reason there is a function for distance measurement). After that, it was relatively easy to get the code up and running.
 Now, for my thinking, while initially, I was trying to fit all acts in one giant, monolithic conditional block, upon giving the instructions a closer read, I realised the better method: Take inputs, assign status codes to eact given condition, then operate the code based on that, leading to cleaner code and easier debugging. After that, it was honestly a cakewalk (the experince finally came in handy, thank God).
-### And with that, I leave you. Hope you enjoyed my Readme and code, and felt it worthy. Hoping to see you all in the next roudd!
+### And with that, I leave you. Hope you enjoyed my Readme and code, and felt it worthy. Hoping to see you all in the next round!
 ### Signing off,
 ### Vikram Singh (2026AAPS0365H)
